@@ -6,9 +6,9 @@ Main keys
 
 |01|02|03|04|05|
 |--------|---------------|----------------|-------------|------------------|
-| `ESC`  | `T` Text/<C>Transform | `M` Marquee    | `L` Lasso   | `DEL`            |
+| `ESC`  | `T` Text/[C]Transform | `M` Marquee    | `L` Lasso   | `DEL`            |
 | `TAB`  | `F5` Brushes  | `V` Move       | `F2` Action | `[` brush size - |
-| `SHIFT`| `A` <C>Select All           | `I` Eyedropper | `D` <C>Deselect        | `]` brush size + | 
+| `SHIFT`| `A` [C]Select All           | `I` Eyedropper | `D` [C]Deselect        | `]` brush size + | 
 | `CTRL` | `ALT`         | `Z` Zoom       | `B` Brush   | `E` Eraser       |
 
 Side buttons
